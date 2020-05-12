@@ -1,0 +1,101 @@
+id,type,fullness,volume
+1,plastic,11,3200
+2,plastic,10,5000
+3,industry,16,2400
+4,glass,51,5000
+5,industry,51,3200
+6,glass,66,5000
+7,paper and cardboard,65,1100
+8,glass,100,2400
+9,glass,77,1100
+10,paper and cardboard,53,3200
+11,plastic,103,2400
+12,industry,86,3200
+13,industry,23,5000
+14,paper and cardboard,19,3200
+15,plastic,3,1100
+16,industry,82,2400
+17,urban solid,100,3200
+18,paper and cardboard,109,2400
+19,paper and cardboard,49,1100
+20,industry,87,5000
+21,urban solid,32,2400
+22,industry,39,3200
+23,urban solid,32,3200
+24,plastic,89,1100
+25,paper and cardboard,5,1100
+26,plastic,2,1100
+27,paper and cardboard,82,3200
+28,glass,12,3200
+29,urban solid,56,1100
+30,urban solid,29,5000
+31,urban solid,99,1100
+32,industry,47,3200
+33,plastic,99,2400
+34,paper and cardboard,26,1100
+35,plastic,74,2400
+36,industry,1,3200
+37,urban solid,1,2400
+38,urban solid,96,3200
+39,glass,38,2400
+40,glass,47,5000
+41,plastic,25,5000
+42,glass,19,2400
+43,industry,80,3200
+44,plastic,72,2400
+45,paper and cardboard,38,3200
+46,paper and cardboard,33,3200
+47,industry,105,3200
+48,paper and cardboard,28,5000
+49,plastic,48,5000
+50,urban solid,44,3200
+51,plastic,54,2400
+52,glass,21,2400
+53,industry,2,3200
+54,plastic,8,5000
+55,glass,106,5000
+56,industry,66,1100
+57,paper and cardboard,109,2400
+58,glass,88,3200
+59,paper and cardboard,62,5000
+60,glass,16,1100
+61,paper and cardboard,77,1100
+62,industry,83,2400
+63,paper and cardboard,67,5000
+64,industry,30,1100
+65,plastic,99,2400
+66,glass,96,5000
+67,urban solid,57,3200
+68,paper and cardboard,59,1100
+69,glass,103,1100
+70,urban solid,93,5000
+71,urban solid,65,5000
+72,glass,101,3200
+73,urban solid,39,5000
+74,plastic,79,5000
+75,paper and cardboard,30,1100
+76,plastic,20,1100
+77,glass,11,2400
+78,industry,70,2400
+79,paper and cardboard,12,1100
+80,urban solid,20,2400
+81,industry,80,5000
+82,paper and cardboard,76,3200
+83,glass,6,3200
+84,paper and cardboard,108,5000
+85,glass,7,5000
+86,paper and cardboard,37,2400
+87,industry,34,5000
+88,paper and cardboard,16,1100
+89,glass,45,3200
+90,plastic,77,2400
+91,urban solid,64,3200
+92,industry,96,5000
+93,industry,26,3200
+94,paper and cardboard,10,3200
+95,glass,68,2400
+96,urban solid,43,2400
+97,paper and cardboard,31,3200
+98,plastic,50,5000
+99,plastic,4,3200
+100,glass,13,5000
